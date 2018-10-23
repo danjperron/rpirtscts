@@ -1,5 +1,8 @@
 # rpirtsrtc
 
+Modifed version to be able to select only the RTS GPIO 
+
+
 rpirtscts is a simple linux command for enabling the hardware flow control pins for the `ttyAMA0` serial port on the [Raspberry Pi](http://www.raspberrypi.org/).
 
 ## Hardware Flow Control & the Raspberry Pi
